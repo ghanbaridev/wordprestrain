@@ -1,2 +1,2 @@
-# wordprestrain
-wordpress training
+# my resume(wordpress)
+my resume using wordpress and elementor
