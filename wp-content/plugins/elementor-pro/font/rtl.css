@@ -1,0 +1,50 @@
+/*
+Created BY  : Masoud Ghorbankhani
+Last Update : 1397/12/21
+*/
+
+/*Start Fonts*/
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: normal;
+    src: url('/wordprestrain/wp-content/plugins/elementor-pro/font/font/IRANSansWeb.woff') format('woff');  /* All Major Browsers */
+}
+body, .elementor-panel, .elementor-panel #elementor-panel-elements-search-input, .elementor-button, input, select, textarea,
+.elementor-add-section-drag-title, .elementor-templates-modal .dialog-widget-content, .elementor-templates-modal .dialog-widget-content, .elementor-select-preset-title ,.elementor-element-wrapper .title-wrapper,elementor-panel-menu-item-title,button.elementor-panel-heading.elementor-panel-category-title,.elementor-panel .elementor-panel-menu-item,elementor-panel-heading,.elementor-panel-heading-title{
+    font-family: "IRANSans",Arial,Helvetica,Verdana,sans-serif !important;
+}
+.elementor-loading-title {
+    letter-spacing: 0 !important;
+    font-size: 13px !important;
+}
+.elementor-add-section-drag-title {
+    font-style: normal !important;
+}
+.elementor-control-type-switcher .elementor-switch-label {
+    font-size: 8px !important;
+}
+.elementor-control-type-dimensions .elementor-control-dimension-label {
+    font-size: 10px !important;
+    line-height: 12px !important;
+}
+.elementor-dynamic-cover__title {
+    line-height: 2 !important;
+}
+.elementor-template-library-blank-title {
+    font-size: 18px !important;
+}
+.elementor-template-library-blank-message {
+    font-size: 14px !important;
+}
+#elementor-template-library-filter-toolbar-remote {
+    font-size: 13px !important;
+}
+#elementor-icons-manager-modal .elementor-button.elementor-button-success:not([disabled]) {
+    font-size: 0 !important;
+}
+
+#elementor-icons-manager-modal .elementor-button.elementor-button-success::before {
+    content: "تایید";
+    font-size: 14px;
+}
